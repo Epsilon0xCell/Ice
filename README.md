@@ -1,3 +1,7 @@
+![Ice banner: a glacier ice shelf edge in glacier blue and ice white, its top crowded with small ice crystals and bubbles, at the right the crystals tuck neatly under a smooth folded lip of ice, a deep navy crevasse below and one warm orange glint](banner.png)
+
+<p align="center"><img src="logo.png" alt="Ice logo: a horizontal bar of clear glacier ice photographed close against deep navy black, a neat row of small bubbles frozen inside it, one bubble glowing warm orange at the centre" width="200"></p>
+
 <div align="center">
     <img src="Ice/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" width=200 height=200>
     <h1>Ice</h1>
